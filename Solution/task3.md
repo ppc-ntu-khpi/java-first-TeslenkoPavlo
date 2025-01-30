@@ -1,4 +1,4 @@
-# Task 1
+# Task 3 (Завдання на 5 балів)
 
 ## Before
 ![](https://github.com/ppc-ntu-khpi/java-first-TeslenkoPavlo/blob/main/Solution/teslenko3.png?raw=true)
